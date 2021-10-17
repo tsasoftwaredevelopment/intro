@@ -7,5 +7,3 @@ Using leadership and 21st century skills, participants apply knowledge of cuttin
 ## Rules
 
 The rules, regulations, competition guidelines, and judging rubric for the Technology Student Association Software Development event can be found [here](https://github.com/tsasoftwaredevelopment/intro/blob/main/HS%20Virtual%20-%20Software%20Development.pdf).
-
-Another test to see if I can create a new branch or not.
